@@ -8,4 +8,5 @@
 all: 
 
 install:
+	npm --save-dev install websocket@1.0.3
 	npm --save-dev install http
