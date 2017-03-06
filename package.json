@@ -11,9 +11,12 @@
   ],
   "author": "weber",
   "license": "ISC",
-  "repository"  : "https://github.com/MichaelGogeshvili/webersocket",
+  "repository": "https://github.com/MichaelGogeshvili/webersocket.git",
   "devDependencies": {
-    "websocket": "^1.0.24",
+    "http": "0.0.0",
+    "mongoose": "^4.8.6",
+    "util": "^0.10.3",
+    "websocket": "^1.0.3",
     "websocket-client": "^1.0.0"
   }
 }
