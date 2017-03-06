@@ -1,0 +1,19 @@
+{
+  "name": "weber1",
+  "version": "1.0.0",
+  "description": "werwe",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "ttt"
+  ],
+  "author": "weber",
+  "license": "ISC",
+  "repository"  : "https://github.com/MichaelGogeshvili/webersocket",
+  "devDependencies": {
+    "websocket": "^1.0.24",
+    "websocket-client": "^1.0.0"
+  }
+}
